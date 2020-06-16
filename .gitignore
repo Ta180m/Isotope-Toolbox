@@ -1,0 +1,11 @@
+###################
+#.gitignore       #
+###################
+
+build/
+out/
+.vscode/
+.build-tools.cson
+
+*.kip
+*.elf
